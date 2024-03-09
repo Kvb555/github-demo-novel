@@ -1,2 +1,5 @@
 ok, putting my first changes down 
 adding the second line to check the command git add .
+this is for git diff
+
+this is for git cached; nice names though :)	
